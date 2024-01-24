@@ -7,5 +7,3 @@
 #define rotaryButton        4
 
 #define serialBuadrate      115200
-
-#define reset_button        15

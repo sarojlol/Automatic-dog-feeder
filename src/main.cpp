@@ -48,8 +48,8 @@ void setup()
   lcd.begin(16, 2, LCD_5x8DOTS);
   lcd.setCursor(4, 0);
   lcd.print("Automatic");
-  lcd.setCursor(2, 1);
-  lcd.print("Fish  Feeder");
+  lcd.setCursor(3, 1);
+  lcd.print("Dog Feeder");
   delay(2000);
   lcd.clear();
   lcd.home();

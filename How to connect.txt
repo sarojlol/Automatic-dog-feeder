@@ -1,0 +1,16 @@
+servo 5V(แดง)       --->    5V (V)
+      GND(น้ำตาล)    --->    GND (G)
+      Signal()เหลือง --->    ขา 12
+
+สวิตช์reset wifi      --->    ขา 15
+ledปุ่ม               --->    ขา 2
+
+ปุ่มEncoder           --->    ขา 4
+Encoder CLK         --->    ขา 18
+Encoder DT          --->    ขา19
+
+LCD  5V             --->    5V (V)
+     GND            --->    GND (G)
+     SDA            --->    ขา 21
+     SCL            --->    ขา 22
+      
